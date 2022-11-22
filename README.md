@@ -8,6 +8,8 @@ Structuration spatiale des communautés de *Larus michaellis* à partir de donn�
 
 ## Prédictions de la structuration des communautés d'ectoparasites
 
-![setting position](https://mivegec.fr/fr/project/ecodis-disease-ecology-in-a-modified-world-linking-combined-environmental-stressors-population-dynamics-and-movement-ecology-to-understand-the-circulation-of-infectious-agents)
+```HTML
+<a href="https://mivegec.fr/fr/project/ecodis-disease-ecology-in-a-modified-world-linking-combined-environmental-stressors-population-dynamics-and-movement-ecology-to-understand-the-circulation-of-infectious-agents"
+```
 
 
